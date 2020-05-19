@@ -58,6 +58,3 @@ def update(id, name, department, year, sid):
 
 con()
 
-update(2, "prashant", "EEE", 2018, 204555)
-
-print(view())
